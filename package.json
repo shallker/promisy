@@ -1,0 +1,21 @@
+{
+  "name": "promisy",
+  "description": "A simple .then chaining",
+  "version": "0.0.1",
+  "author": "Shallker <imshallker@gmail.com>",
+  "main": "index.js",
+  "keywords": [
+    "promisy", "then"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shallker/promisy.git"  
+  },
+  "bugs": {
+    "url": "https://github.com/shallker/promisy/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "license": "MIT"
+}
