@@ -11,7 +11,7 @@ npm install promisy
 
 ## Quick Start
 ```javascript
-var promisy = require('../lib/promisy');
+var promisy = require('promisy');
 
 promisy(function (next) {
   console.log('first');
