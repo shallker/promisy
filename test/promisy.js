@@ -1,4 +1,5 @@
-var promisy = require('../lib/promisy');
+var Promisy = require('../lib/promisy');
+var promisy = new Promisy;
 
 promisy(function (next) {
   console.log('first');
