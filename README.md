@@ -3,10 +3,15 @@ promisy
 
 A simple .then chaining
 
-
 ## Installation
+npm
 ```bash
 npm install promisy
+```
+
+component
+```bash
+component install shallker/promisy
 ```
 
 ## Quick Start
@@ -34,6 +39,11 @@ promisy(function (next) {
 ## API
 
 ### .then(Function next)
+
+## Test
+Browser side   
+http://shallker.github.io/simple-test/promisy/index.html   
+http://shallker.github.io/simple-test/promisy/multi.html   
 
 
 ## License
