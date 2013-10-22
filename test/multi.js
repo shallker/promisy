@@ -1,4 +1,4 @@
-var Promisy = require('../index');
+var Promisy = typeof document === 'object' ? require('promisy') : require('../lib/promisy');
 
 var promisy1 = new Promisy;
 var promisy2 = new Promisy;
