@@ -5,7 +5,9 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {},
-  "development": {},
+  "development": {
+    "simple-test": "*"
+  },
   "license": "MIT",
   "main": "component.js",
   "scripts": [

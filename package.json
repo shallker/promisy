@@ -16,7 +16,9 @@
     "url": "https://github.com/shallker/promisy/issues"
   },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "simple-test": "*"
+  },
   "scripts": {},
   "license": "MIT"
 }
