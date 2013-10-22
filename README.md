@@ -42,8 +42,8 @@ promisy(function (next) {
 
 ## Test
 Browser side   
-http://shallker.github.io/simple-test/promisy/index.html   
-http://shallker.github.io/simple-test/promisy/multi.html   
+http://shallker.github.io/promisy/test/index.html   
+http://shallker.github.io/promisy/test/multi.html   
 
 
 ## License
