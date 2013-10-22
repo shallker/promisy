@@ -16,7 +16,8 @@ component install shallker/promisy
 
 ## Quick Start
 ```javascript
-var promisy = require('promisy');
+var Promisy = require('promisy');
+var promisy = new Promisy;
 
 promisy(function (next) {
   console.log('first');
