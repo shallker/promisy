@@ -1,0 +1,15 @@
+{
+  "name": "promisy",
+  "repo": "shallker/promisy",
+  "description": "A simple .then chaining",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "component.js",
+  "scripts": [
+    "component.js",
+    "lib/promisy.js"
+  ]
+}
